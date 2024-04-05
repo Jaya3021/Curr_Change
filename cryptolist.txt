@@ -1,0 +1,54 @@
+	
+
+BTC:Bitcoin
+ETH:Ethereum
+USDT:Tether
+USDC:USD Coin
+BNB:BNB
+XRP:XRP
+BUSD:Binance USD
+DOGE:Dogecoin
+ADA:Cardano
+MATIC:Polygon
+DAI:Dai
+LTC:Litecoin
+DOT:Polkadot
+TRX:TRON
+SHIB:Shiba Inu
+SOL:Solana
+UNI:Uniswap
+AVAX:Avalanche
+LEO:UNUS SED LEO
+LINK:Chainlink
+ATOM:Cosmos
+XMR:Monero
+TON:Toncoin
+ETC:Ethereum Classic
+XLM:Stellar
+BCH:Bitcoin Cash
+OKB:OKB
+CRO:Cronos
+APE:ApeCoin
+QNT:Quant
+ALGO:Algorand
+VET:VeChain
+FIL:Filecoin
+NEAR:NEAR Protocol
+ICP:Internet Computer
+FRAX:Frax
+LDO:Lido DAO Token
+HBAR:Hedera
+LUNC:Luna Classic
+EOS:EOS
+USDP:Pax Dollar
+TUS:TrueUSD
+HT:Huobi Token
+BSV:Bitcoin SV
+EGLD:Elrond
+BIT:BitDAO
+AAVE:Aave
+THETA:Theta Network
+FLOW:Flow
+USDD:USDD
+
+	

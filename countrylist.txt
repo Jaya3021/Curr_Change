@@ -1,0 +1,290 @@
+a
+	AFN	Afghanistan Afghani	
+	ALL	Albanian Lek	
+	DZD	Algerian Dinar	
+	USD	US Dollar	
+	EUR	Euro	Andorra
+	AOA	Angolan Kwanza	
+	XCD	East Caribbean Dollar	
+	ARS	Argentine Peso	
+	AMD	Armenian Dram	
+  	AWG	Aruban Guilder	
+	AUD	Australian Dollar	
+      EUR	Euro	Vienna
+	AZN	Azerbaijan New Manat
+b
+
+	BSD	Bahamian Dollar	
+	BHD	Bahraini Dinar	
+	BDT	Bangladeshi Taka	
+	BBD	Barbados Dollar	
+	BYR	Belarussian Ruble	
+	EUR	Euro	Brussels
+	BZD	Belize Dollar	
+	XOF	CFA Franc BCEAO	
+	BMD	Bermudian Dollar	
+	BTN	Bhutan Ngultrum	
+	BOB	Boliviano	
+	BAM	Marka	Sarajevo
+	BWP	Botswana Pula	
+	NOK	Norwegian Krone	
+	BRL	Brazilian Real	
+	USD	US Dollar	None
+	BND	Brunei Dollar	
+	BGN	Bulgarian Lev	
+	XOF	CFA Franc BCEAO	
+	BIF	Burundi Franc	
+c
+
+	CVE	Cape Verde Escudo	
+	KHR	Kampuchean Riel	
+	XAF	CFA Franc BEAC	
+	CAD	Canadian Dollar	
+	KYD	Cayman Islands Dollar	
+	XAF	CFA Franc BEAC	
+	XAF	CFA Franc BEAC	
+	CLP	Chilean Peso	
+	CNY	Yuan Renminbi	
+	AUD	Australian Dollar	
+	AUD	Australian Dollar	
+	COP	Colombian Peso	
+	KMF	Comoros Franc	
+	XAF	CFA Franc BEAC	
+	CDF	Francs	
+	NZD	New Zealand Dollar	
+	CRC	Costa Rican Colon	San Jose
+	HRK	Croatian Kuna	
+	CUP	Cuban Peso	
+	EUR	Euro	
+	CZK	Czech Koruna	
+	XOF	CFA Franc BCEAO	
+	DKK	Danish Krone	
+	DJF	Djibouti Franc	
+	XCD	East Caribbean Dollar	
+
+
+d,e
+
+
+	DOP	Dominican Peso	
+	ECS	Ecuador Sucre	
+	EGP	Egyptian Pound	
+	SVC	El Salvador Colon
+	XAF	CFA Franc BEAC	
+	ERN	Eritrean Nakfa	
+	SZL	Swaziland Lilangeni	
+	ETB	Ethiopian Birr	
+		
+
+f
+
+
+	FKP	Falkland Islands Pound	
+	DKK	Danish Krone	
+	FJD	Fiji Dollar		
+	XPF	CFP Franc	
+	
+
+
+g
+
+
+	XAF   CFA Franc BEAC	
+	GMD	Gambian Dalasi	
+	GEL	Georgian Lari	
+      GHS   Ghanaian Cedi	
+	GIP	Gibraltar Pound		
+	DKK	Danish Krone	
+	XCD	East Carribean Dollar		
+	GTQ	Guatemalan Quetzal	
+	GGP	Pound Sterling	
+	GNF	Guinea Franc	
+	GWP	Guinea-Bissau Peso	
+	GYD	Guyana Dollar	
+
+h,i
+
+
+	HTG	Haitian Gourde	
+	AUD	Australian Dollar	
+	HNL	Honduran Lempira	
+	HKD	Hong Kong Dollar	
+	HUF	Hungarian Forint	
+	ISK	Iceland Krona	
+	INR	Indian Rupee	
+	IDR	Indonesian Rupiah	
+	IRR	Iranian Rial	
+	IQD	Iraqi Dinar
+	GBP	Pound Sterling	
+	ILS	Israeli New Shekel	
+	
+
+j,k
+
+	JMD	Jamaican Dollar	
+	JPY	Japanese Yen	
+	GBP	Pound Sterling
+	JOD	Jordanian Dinar	
+	KZT	Kazakhstan Tenge	
+	KES	Kenyan Shilling	
+	AUD	Australian Dollar	
+	KPW	North Korean Won	
+	KRW	Korean Won	
+	KWD	Kuwaiti Dinar	
+	KGS	Som	
+
+
+
+l
+
+
+	LAK	Lao Kip	
+	LVL	Latvian Lats	
+	LBP	Lebanese Pound	
+	LSL	Lesotho Loti	
+	LRD	Liberian Dollar	
+	LYD	Libyan Dinar	
+	CHF	Swiss Franc
+	LTL	Lithuanian Litas	
+		
+
+
+m
+
+
+
+	MOP	Macau Pataca	
+	MGF	Malagasy Franc	
+	MWK	Malawi Kwacha
+	MYR	Malaysian Ringgit
+	MVR	Maldive Rufiyaa			
+	MRO	Mauritanian Ouguiya	
+	MUR	Mauritius Rupee		
+	MXN	Mexican Nuevo Peso		
+	MDL	Moldovan Leu	
+	EUR	Euro	Monaco
+	MNT	Mongolian Tugrik			
+	MAD	Moroccan Dirham	
+	MZN	Mozambique Metical	
+	MMK	Myanmar Kyat	
+
+
+
+n
+
+	NAD	Namibian Dollar		
+	NPR	Nepalese Rupee	
+	XPF	CFP Franc	
+	NZD	New Zealand Dollar	
+	NIO	Nicaraguan Cordoba Oro	
+	XOF	CFA Franc BCEAO	
+	NGN	Nigerian Naira	
+	NZD	New Zealand Dollar		
+	MKD	Denar	
+	NOK	Norwegian Krone	
+
+
+o,p
+
+
+	OMR	Omani Rial	
+	PKR	Pakistan Rupee		
+	PAB	Panamanian Balboa	
+	PGK	Papua New Guinea Kina	
+	PYG	Paraguay Guarani	
+	PEN	Peruvian Nuevo Sol	
+	PHP	Philippine Peso		
+	PLN	Polish Zloty	
+	
+
+
+q,r
+
+
+	QAR	Qatari Rial	
+	RON	Romanian New Leu	
+	RUB	Russian Ruble	
+	RWF	Rwanda Franc	
+
+s
+
+
+	SHP	St. Helena Pound	
+	WST	Samoan Tala		
+	STD	Dobra	S
+	SAR	Saudi Riyal		
+	RSD	Dinar
+	SCR	Seychelles Rupee	
+	SLL	Sierra Leone Leone	
+	SGD	Singapore Dollar	
+	SBD	Solomon Islands Dollar	
+	SOS	Somali Shilling	
+	ZAR	South African Rand	
+	GBP	Pound Sterling	
+	SSP	South Sudan Pound	
+	LKR	Sri Lanka Rupee	
+	SDG	Sudanese Pound	
+	SRD	Surinam Dollar	
+	NOK	Norwegian Krone	
+	SEK	Swedish Krona	
+	CHF	Swiss Franc	
+	SYP	Syrian Pound	
+
+
+t
+
+
+	TWD	Taiwan Dollar	
+	TJS	Tajik Somoni	
+	TZS	Tanzanian Shilling	
+	THB	Thai Baht			
+	TOP	Tongan Pa'anga	
+	TTD	Trinidad and Tobago Dollar	
+	TND	Tunisian Dollar	
+	TRY	Turkish Lira	
+	TMT	Manat	
+	
+
+
+u,v
+
+
+	
+	UGX	Uganda Shilling	
+	UAH	Ukraine Hryvnia	
+	AED	Arab Emirates Dirham	
+	GBP	Pound Sterling	
+	UYU	Uruguayan Peso	
+	UZS	Uzbekistan Sum	
+	VUV	Vanuatu Vatu	
+	VEF	Venezuelan Bolivar	
+      VND   Vietnamese Dong	
+		
+
+
+
+w,x,y,z
+
+	XPF	CFP Franc	
+	MAD	Moroccan Dirham	
+	YER	Yemeni Rial	
+	ZMW	Zambian Kwacha	
+	ZWD	Zimbabwe Dollar	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
